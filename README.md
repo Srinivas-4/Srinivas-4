@@ -7,7 +7,7 @@
 
 - 🔭 I've worked on **Detection and Classification of malware for cyber security using machine learning algorithms**
 
-- 🌱 I’m currently learning **PHP, Blockchain, Artificial Intelligence**
+- 🌱 I’m currently learning **Cyber security,Data Analytics, Artificial Intelligence**
 
 - 💬 Ask me about **Bootstrap, JavaScript, React, Node.js, MongoDb**
 
